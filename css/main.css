@@ -2766,6 +2766,7 @@ img{
 	width:354px;
 	height:468px;
 	background-repeat:no-repeat;
+	opacity: 0.1;
 }
 
 .counter-section .content-column{
