@@ -7210,7 +7210,7 @@ a.badge-contrast:focus {
     height: 658px;
     margin: 0 auto;
 	padding: 18px 19px 17px;
-    margin-left: 200px;
+    margin-left: -50px;
     margin-top: -20px;
     background-repeat: no-repeat;
 }
@@ -7243,6 +7243,7 @@ a.badge-contrast:focus {
 .steps-section .blocks-column .inner-column{
 	position:relative;
 	padding-left:30px;
+	width: 700px;
 }
 
 .steps-section .blocks-column .inner-column .carousel-indicators{
